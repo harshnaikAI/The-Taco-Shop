@@ -8,4 +8,9 @@ CSS Project from Dev-Gray
    - Technology used- Symantic HTML and CSS.
      
 2. screen shot
-    - ![Uploading LTS.png…]()
+   
+    - ![LTS](https://github.com/harshnaikAI/The-Taco-Shop/assets/124079700/8ca28ae0-43b3-4ebe-9342-ac52e59ed23d)
+      
+## Link
+
+   -[Netlify URL](https://taco-shop-harsh.netlify.app/)
