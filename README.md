@@ -1,6 +1,8 @@
 # The Taco Shop 
 CSS Project from Dev-Gray 
 
+Multipage responsive Taco shop Website built with Symantic HTML and CSS3.
+
 1. Key Features
    - An complete morder looking " Taco Shop " multipage reponsive website.
    - Changing of designs theme ( dark and light ) with single line of CSS.
